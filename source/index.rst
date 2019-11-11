@@ -10,5 +10,6 @@ Welcome to Bear's BLOG's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   FirstBlog
    how_to_be_a_rich_man
 

@@ -62,6 +62,10 @@ html_theme = 'default'
 
 html_static_path = ['_static']
 
+html_js_files = [
+    'js/tencent_statistic.js'
+]
+
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'Bear BLOG'
 
