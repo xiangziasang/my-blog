@@ -73,7 +73,7 @@ htmlhelp_basename = 'Bear BLOG'
 # -- Options for LaTeX output ---------------------------------------------
 
 # 注：在生成html的时候这句话要注释
-latex_engine = 'xelatex'
+# latex_engine = 'xelatex'
 
 latex_elements={# The paper size ('letterpaper' or 'a4paper').
 'papersize':'a4paper',# The font size ('10pt', '11pt' or '12pt').
